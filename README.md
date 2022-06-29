@@ -1,3 +1,8 @@
+# Tactics-Trainer Project
+
+Working on implementing the following example project to work on tactics trainer app
+https://levelup.gitconnected.com/build-a-chess-tactics-app-with-react-part-1-49be01fc63b5
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

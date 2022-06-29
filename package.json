@@ -6,8 +6,8 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
-    "@types/chess.js": "^0.13.0",
-    "chess.js": "^0.13.2",
+    "@types/chess.js": "^0.13.2",
+    "chess.js": "^0.13.3",
     "chessboardjsx": "^2.4.7",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
@@ -37,5 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^5.30.0",
+    "typescript": "^4.7.4"
   }
 }
