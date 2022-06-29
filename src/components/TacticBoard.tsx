@@ -57,7 +57,7 @@ const TacticBoard: React.FC<Props> = ({
             onIncorrect(); //else move was incorrect, call onIncorrect
         }
     };
-//comment
+
     return (
         <Chessboard
             transitionDuration={200} //duration of move animation
